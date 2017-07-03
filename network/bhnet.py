@@ -191,3 +191,5 @@ def main():
     # depending on our command line options above
     if listen:
         server_loop()
+
+main()
